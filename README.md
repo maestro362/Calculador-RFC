@@ -1,4 +1,4 @@
-# Calculador RFC
+# Calculador, Generador RFC - Registro Federal de Contribuyentes en México - PHP
 ¡¡¡Hola a TODOS!!!
 
 Últimamente he estado trabajando en un proyecto de la empresa donde laboro, en el cual necesitaba calcular los RFC de los empleados para tener una BD congruente, por lo cual me di a la tarea de investigar en san GOOGLE pero no pude encontrar uno definitivo, vi varios proyecto que la comunidad ha subido pero siempre le falla algo o no cumple con todas las reglas establecidas por el documento del IFAI, así que me di a la tarea de solucionar esto y aquí les traigo el resultado, de igual manera les comparto el documento donde obtuve las reglas y los métodos de cálculos.
